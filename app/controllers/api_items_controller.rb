@@ -1,0 +1,2 @@
+class ApiItemsController < ApplicationController
+end
